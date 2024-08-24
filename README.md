@@ -21,7 +21,8 @@ Sparkie is entirely 3D printed and assembled from scratch.
 To build Sparkie, you will roughly need:
 - A 3D printer or access to one
 - A Jetson Orin board
-- A RealSense camera (D435x), or any other 3D camera (you will need to modify the camera mount and relative software)
+- A RealSense camera (D435x), or any other 3D camera (you will need to modify the camera mount and relative software).
+- A Lidar sensor (Slamtec RPLidar C1)
 - Some components (raspberry pico, battery, motors, switches, etc)
 - Some screws, nuts, and bolts
 - A custom printed circuit board (PCB) to connect all the components
